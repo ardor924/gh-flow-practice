@@ -11,4 +11,4 @@ def fizzbuzz(num:int) :
                 print(i)
 
 if __name__ == "__main__" :
-    buzz(15)
+    fizzbuzz(15)
